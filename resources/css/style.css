@@ -2,4 +2,13 @@ body{
     background-color: #000000;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: normal;
+
+}
+.header--main{
+    font-size: 50px;
+    font-weight: normal;
+    color: #ffffff;
+
 }
